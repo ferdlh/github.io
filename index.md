@@ -6,3 +6,4 @@ Harry Potter ist eine Kinder- und Jugendromanreihe der englischen Schriftsteller
 * Schwarzhaarig
 As Harry Potter said:
 > I'm Harry Potter
+<img src="https://images.unsplash.com/photo-1574097496967-1d8b454db9a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"/>
