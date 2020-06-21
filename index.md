@@ -4,3 +4,5 @@ Harry Potter ist eine Kinder- und Jugendromanreihe der englischen Schriftsteller
 * Zauberer
 * Schlau
 * Schwarzhaarig
+As Harry Potter said:
+> I'm Harry Potter
